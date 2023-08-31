@@ -6,6 +6,10 @@ Beautiful & consistent _[product]_ and [file] icons for _[Visual Studio Code][vs
 
 _[Lucide]_ is a growing [superset][icons] and [community] [`fork`] of _[Feather]_ icons.
 
+![screenshot](screenshot.png)
+
+\* Screenshot also features _[Dracula]_ [theme].
+
 ## Install
 ~~~ sh
 code --install-extension danielbayley.lucide-icons
@@ -27,3 +31,6 @@ License
 [`fork`]:             https://github.com/lucide-icons/lucide#readme
 [community]:          https://github.com/lucide-icons/lucide/graphs/contributors
 [feather]:            https://feathericons.com
+
+[dracula]:            https://draculatheme.com/visual-studio-code
+[theme]:              https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula
